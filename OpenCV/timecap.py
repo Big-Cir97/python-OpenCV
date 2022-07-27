@@ -30,6 +30,8 @@ while (cam.isOpened()):
         cv2.imshow("test", frame)
     except Exception as err:
             print(err)
+            cam = cv2.VideoCapture(1)
+        
     
     k = cv2.waitKey(1)
     if k%256 == 27:
