@@ -1,1 +1,0 @@
-{'/Users/daewon/Desktop/deep-i/python/sub2.py': '/Users/daewon/.spyder-py3/autosave/sub2.py', '/Users/daewon/Desktop/deep-i/python/sub.py': '/Users/daewon/.spyder-py3/autosave/sub.py', '/Users/daewon/Desktop/deep-i/python/main.py': '/Users/daewon/.spyder-py3/autosave/main.py'}

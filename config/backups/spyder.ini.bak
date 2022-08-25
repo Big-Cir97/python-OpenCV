@@ -226,7 +226,7 @@ type_column = False
 [explorer]
 enable = True
 name_filters = ['README', 'INSTALL', 'LICENSE', 'CHANGELOG', '*.spydata', '*.npy', '*.npz', '*.mat', '*.csv', '*.txt', '*.jpg', '*.png', '*.gif', '*.tif', '*.pkl', '*.pickle', '*.json', '*.py', '*.ipynb', '*.dat', '*.pdf', '*.png', '*.svg', '*.md', '*.yml', '*.yaml']
-show_hidden = False
+show_hidden = True
 single_click_to_open = False
 size_column = False
 type_column = False
@@ -279,7 +279,7 @@ console/use_cwd = True
 console/use_fixed_directory = False
 startup/use_fixed_directory = False
 init_workdir = None
-history = ['/Users/daewon', '/Users/daewon/.spyder-py3/OpenCV', '/Users/daewon/.spyder-py3/OpenCV/result', '/Users/daewon/.spyder-py3', '/Users/daewon/.spyder-py3/plugins']
+history = ['/Users/daewon', '/Users/daewon/.spyder-py3/OpenCV', '/Users/daewon/.spyder-py3', '/Users/daewon/Downloads', '/Users', '/', '/Users/daewon/Desktop', '/Users/daewon/.spyder-py3/OpenCV/result', '/Users/daewon/.spyder-py3/plugins']
 workdir = None
 
 [tours]
