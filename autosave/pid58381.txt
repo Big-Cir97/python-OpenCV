@@ -1,1 +1,0 @@
-{'/Users/daewon/.spyder-py3/OpenCV/object_detection.py': '/Users/daewon/.spyder-py3/autosave/object_detection.py', '/Users/daewon/Desktop/deep-i/python/sub2.py': '/Users/daewon/.spyder-py3/autosave/sub2.py'}

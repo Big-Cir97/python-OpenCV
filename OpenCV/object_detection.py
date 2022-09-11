@@ -4,11 +4,11 @@ import json
 import os.path
 
 
-filePath = "/Users/daewon/desktop/deep-i/python/PVC파이프/IMG_9046.json"
-imgPath = "/Users/daewon/desktop/deep-i/python/PVC파이프/IMG_9046.jpg"
+filePath = "/Users/daewon/desktop/PVC파이프/IMG_9046.json"
+imgPath = "/Users/daewon/desktop/PVC파이프/IMG_9046.json"
 
-filePath = "/Users/daewon/desktop/deep-i/python/PVC파이프/IMG_9046.json"
-img_path = "/Users/daewon/desktop/deep-i/python/PVC파이프/IMG_9046.jpg"
+filePath = "/Users/daewon/desktop/PVC파이프/IMG_9046.json"
+img_path = "/Users/daewon/desktop/PVC파이프/IMG_9046.json"
 
 with open(filePath, "r") as f:
     json_data = json.load(f)
@@ -94,12 +94,6 @@ for i in range(len(npd)):
 
 f.close()
 
-cv2.imshow("image", ird)
-cv2.namedWindow("image")
-#cv2.setMouseCallback("image", MouseLeftClick)
-
-cv2.waitKey(0)
-cv2.destroyAllWindows()
 
 
 
